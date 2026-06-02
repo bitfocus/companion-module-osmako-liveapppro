@@ -1,0 +1,27 @@
+{
+  "type": "connection",
+  "id": "osmako-liveapppro",
+  "name": "OSMAKO LiveApp Pro",
+  "shortname": "LiveApp Pro",
+  "description": "Control OSMAKO LiveApp Pro — video playout (VideoCue), overlays, and ATEM-triggered automation — from Bitfocus Companion.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/patcrowley/companion-module-osmako-liveapppro",
+  "bugs": "https://github.com/patcrowley/companion-module-osmako-liveapppro/issues",
+  "manufacturer": "OSMAKO",
+  "products": ["LiveApp Pro"],
+  "keywords": ["video", "playout", "overlay", "atem", "live", "production", "graphics"],
+  "maintainers": [
+    {
+      "name": "Pat Crowley",
+      "email": "patcrowley@gmail.com"
+    }
+  ],
+  "legacyIds": [],
+  "runtime": {
+    "type": "node22",
+    "api": "nodejs-ipc",
+    "apiVersion": "0.0.0",
+    "entrypoint": "../dist/index.js"
+  }
+}
