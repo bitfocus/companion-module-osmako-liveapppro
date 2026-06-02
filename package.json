@@ -35,9 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patcrowley/companion-module-osmako-liveapppro.git"
+    "url": "https://github.com/patcrowley-cell/companion-module-osmako-liveapppro.git"
   },
   "bugs": {
-    "url": "https://github.com/patcrowley/companion-module-osmako-liveapppro/issues"
+    "url": "https://github.com/patcrowley-cell/companion-module-osmako-liveapppro/issues"
   }
 }
