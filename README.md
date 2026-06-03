@@ -93,3 +93,4 @@ Ready-to-use button presets are included under the **VideoCue** and **Overlay** 
 ## License
 
 MIT
+"# companion-module-osmako-liveapppro" 
